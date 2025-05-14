@@ -92,9 +92,9 @@ sudo apt install curl wget nano lsb-release ca-certificates -y
 cd /opt
 wget https://github.com/iredmail/iRedMail/archive/refs/tags/1.7.3.tar.gz
 tar xzf 1.7.3.tar.gz
-cd iRedMail-1.7.0
+cd iRedMail-1.7.3
 ```
-*(Проверьте актуальную версию на https://github.com/iredmail/iRedMail/releases)*
+*(Проверьте актуальную версию на [https://github.com/iredmail/iRedMail/releases](https://www.iredmail.org/))*
 
 ---
 
